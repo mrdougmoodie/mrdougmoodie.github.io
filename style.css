@@ -12,8 +12,9 @@ text-align: left;
 }
 
 .work-experience{
+   border: 1px solid #000;
   
 }
-.work-entry
-.work-intro
-.education
+.work-entry[]
+.work-intro[]
+.education[]
