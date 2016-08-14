@@ -4,9 +4,8 @@
   font-weight: 100;
 }
 
-.segment-head (
+.contact-info {
 text-align: center;
-font-weight: 200;
-font-color: blue;
-)
+ font-weight: 100;
+}
 
