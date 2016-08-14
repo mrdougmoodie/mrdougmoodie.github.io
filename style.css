@@ -5,9 +5,8 @@
 }
 
 ."section-top" {
-font-family: "Trebuchet MS", Helvetica, sans-serif;
 text-align: left;
- color: blue;
+ color: red;
  font-size: 2em;
 }
 
@@ -16,5 +15,9 @@ text-align: left;
   
 }
 .work-entry{}
-.work-intro{}
+.work-intro{
+  font-size: 2.5em
+  font-weight: bold;
+  
+}
 .education{}
