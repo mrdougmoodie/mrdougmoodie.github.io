@@ -5,9 +5,10 @@
 }
 
 ."section-top" {
-font-family: "Times New Roman", Times, serif;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
 text-align: left;
  color: blue;
+ font-size: 2em;
 }
 
 .work-experience{
