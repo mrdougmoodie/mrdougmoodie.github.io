@@ -18,7 +18,8 @@ text-align: left;
 
 .work-experience{
    border: 1px solid blue;
-  
+  margin-left: 1em;
+  margin-right: 1em;
 }
 .work-entry{}
 .work-intro{
