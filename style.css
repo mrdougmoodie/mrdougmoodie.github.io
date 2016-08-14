@@ -12,9 +12,9 @@ text-align: left;
 }
 
 .work-experience{
-   border: 1px solid #000;
+   border: 1px solid blue;
   
 }
-.work-entry[]
-.work-intro[]
-.education[]
+.work-entry{}
+.work-intro{}
+.education{}
