@@ -29,6 +29,14 @@ text-align: left;
  font-weight: bold;
   
 }
+
+div#box1{
+  {
+     height: 100px;
+     width: 100px;
+     border:1em;
+} 
+}
 .box2 {
   display: inline-block;
   width: 200px;
